@@ -20,4 +20,4 @@ Items to be scraped
 - ASIN
 - Product Description
 - Manufacturer 
-The entire has been exported in a csv format : "product.csv"
+The entire has been exported in a csv format : "product_data.csv"
