@@ -9,15 +9,15 @@ uses libraries such as
 ```
 Beautiful Soup , Requests , CSV
 ```
-scrape atleast 20 pages of product listing pages ,With the Product URL received, hit each URL, below items have been added :
-Items to scrape
-• Product URL
-• Product Name
-• Product Price
-• Rating
-• Number of review
-• Description
-• ASIN
-• Product Description
-• Manufacturer 
+Scraped atleast 20 pages of product listing pages with the Product URL , below items have been added :
+Items to be scraped
+- Product URL
+- Product Name
+- Product Price
+- Rating
+- Number of review
+- Description
+- ASIN
+- Product Description
+- Manufacturer 
 The entire has been exported in a csv format : "product.csv"
